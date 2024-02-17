@@ -1,4 +1,4 @@
 # basharat-demo
 This is my first Git Repository
 <br>
-Author - Basharat (school)
+Author - Basharat (UOS)
